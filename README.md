@@ -12,25 +12,24 @@ My technology stacks are Java and Golang,my brief introduction as follows:
 ## Work Experience
 
 - 2022-NOW: Advance | Tech Lead
-```bash
-Responsible for the technical of the company's core financial business unit, as the technical director，Responsible for system architecture, infrastructure, system R&D and R&D team management                                                                                                     
-```
+
+    Responsible for the technical of the company's core financial business unit, as the technical director，Responsible for system architecture, infrastructure, system R&D and R&D team management                                                                                                     
 - 2019-2022:   Alibaba Group | Senior technical expert
-```bash
-Do online finance business, After one year  transfered to aliCloud to do public cloud container paas-ASK(Alibaba Servless Kubernetes)
-```
+
+    Do online finance business, After one year  transfered to aliCloud to do public cloud container paas-ASK(Alibaba Servless Kubernetes)
+
 - 2016-2019:   CreditEase | Architect/Deputy Technical Director
-````bash
-China's largest Internet finance company. I am incharge of the internet financial basic platform, online wealth management platform, and successively served as senior engineer, system architect, and deputy technical director.
-````
+
+    China's largest Internet finance company. I am incharge of the internet financial basic platform, online wealth management platform, and successively served as senior engineer, system architect, and deputy technical director.
+
 - 2013-2016    Baidu Inc | Senior Staff Engineer
-```bash
-One of the largest Internet companies in China.I have been working on basic platforms for one year, such as compilation platform, continuous integration and construction platform Large scale system monitoring platform and other infrastructure systems.
-```
+
+    One of the largest Internet companies in China.I have been working on basic platforms for one year, such as compilation platform, continuous integration and construction platform Large scale system monitoring platform and other infrastructure systems.
+
 - 2011-2013    Thunisoft | Engineer
-```bash
-To develop  large-scale e-government system serving the public security, procuratorial and legal systems of China
-```
+
+    To develop  large-scale e-government system serving the public security, procuratorial and legal systems of China
+
 ## Education
 - 2004-2011 Yanshan University | Bachelor&Master
 
