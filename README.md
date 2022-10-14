@@ -1,13 +1,13 @@
 # About Me
 ## Brief Introduction
 Welcome to my github!
-My name is xianshuang.zhang with English name Alex zhang.So you can call me alex.
-I have bean working in IT industry 11 years especially in internet industry more than 8 years.
-After  won my Bachlor/Master degree from Yanshan University,I joined IT industry and till now.
+My name is Alex zhang. can call me alex in short.
+I have bean working in IT industry nearly 11 years and in internet industry more than 8 years.
+After won my Bachlor/Master degree from Yanshan University,I joined IT industry and till now.
 My technology stacks are Java and Golang,my brief introduction as follows:
 - I have some experience in the Internet system to deal with traffic, concurrency, consistency, security and other issues, especially familiar with the common solutions of the J2EE ecosystem, familiar with network protocols, common middleware and supporting operation, monitoring, deployment and other infrastructure, and have more practical experience in the performance optimization and troubleshooting(you can find them from my github) of the application system under the Linux like os and j2ee systems. I can quickly locate application/system level problems, and I am also familiar with the shell, especially awk language.
 - Be familiar with the solutions and principles of CloudNative/Commercial cloud fields such as microservices, container technology, container orchestrate(swarm/k8s), ServieMesh and container paas, and have a lot of enterprise level practical experience.
-- I also have the experience of managing more than 40 people, has the ability to build medium and large Internet application systems from scratch, has the experience of designing and implementing the system architecture of traditional large-scale e-government/Internet application systems, is sensitive to new technologies in the industry, and can quickly update the technical system.
+- I also have the experience of managing more than 40 people, has the ability to build medium and large Internet application systems from scratch, has the experience of designing and implementing the system architecture of traditional large-scale e-government/Internet application systems, is sensitive to new technologies in the industry, and can quickly update the technical stack.
 
 ## Work Experience
 
